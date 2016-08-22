@@ -1,0 +1,39 @@
+body {
+	background-image: url("http://lea.verou.me/ft2010/img/darker_wood.jpg");
+}
+
+.quote-machine {
+	width: 50%;
+	margin: 230px auto 0px;
+}
+
+.quote {
+	font-family: 'Oswald', sans-serif;
+	color: #D2D5CC;
+	font-size: 50px;
+	margin-bottom: 50px;
+}
+
+.author {
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	font-style: italic;
+	color: #D2D5CC;
+	float: right;
+}
+
+.click {
+	margin-top: 80px;
+	text-align: center;
+}
+ .twitter-share-button {
+ 	margin-left: 10px;
+ }
+
+ .about {
+ 	color: #D2D5CC;
+ 	width: 100%;
+ 	text-align: center;
+ 	position: absolute;
+ 	bottom: 10px;
+ }
