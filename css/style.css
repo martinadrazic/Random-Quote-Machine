@@ -4,7 +4,7 @@ body {
 
 .quote-machine {
 	width: 50%;
-	margin: 230px auto 0px;
+	margin: 150px auto 0px;
 }
 
 .quote {
@@ -23,8 +23,7 @@ body {
 }
 
 .click {
-	margin-top: 80px;
-	margin-bottom: 60px;
+	margin-bottom: 100px;
 	text-align: center;
 }
 
@@ -35,6 +34,7 @@ body {
  .about {
  	color: #D2D5CC;
  	text-align: center;
+ 	margin-top: 80px;
  }
 
  #next-quote {
