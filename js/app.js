@@ -7,7 +7,6 @@ function init(){
 
 function getQuote () { 
 	$.getJSON("http://api.forismatic.com/api/1.0/?format=jsonp&method=getQuote&jsonp=?&lang=en", function(json) {
-
 			var author;
 			var text = json.quoteText.replace(/\;/g, ',');
 
