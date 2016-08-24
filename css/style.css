@@ -10,13 +10,17 @@ body {
 .content {
 	width: 50%;
 	height: 100%;
-	margin: 150px auto 0px;
+	margin: 80px auto 0px;
+}
+
+.text {
+	margin-top: 30px;
 }
 
 .quote {
 	font-family: 'Oswald', sans-serif;
 	color: #D2D5CC;
-	font-size: 50px;
+	font-size: 3em;
 }
 
 .author {
@@ -29,7 +33,7 @@ body {
 }
 
 .click {
-	margin-bottom: 100px;
+	margin-bottom: 70px;
 	text-align: center;
 }
 
